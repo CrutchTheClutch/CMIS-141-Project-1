@@ -4,7 +4,8 @@ import java.util.Scanner;
  * File: Project1.java
  * Author: William Crutchfield
  * Date: January 24, 2016
- * Description: This program is meant to allow the user to enter demographic information.
+ * Description: This program asks the user to input information such as birthday, location, and gpa.
+ * Then, formats the data to be output to the console.
  */
 public class Project1 {
 

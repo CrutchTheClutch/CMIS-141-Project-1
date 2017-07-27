@@ -1,5 +1,5 @@
 # CMIS-141-Project-1
-####An introductory project to become familiarized with inputs and outputs.
+#### An introductory project to become familiarized with inputs and outputs.
 
 This program asks the user to input information such as birthday, location, and gpa. Then, formats the data to be output to the console.
 

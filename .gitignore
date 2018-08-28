@@ -153,9 +153,12 @@ $RECYCLE.BIN/
 *.lnk
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 # End of https://www.gitignore.io/api/java,macos,windows,intellij
 =======
+=======
+>>>>>>> d9433ac8df6ff8292e1a242570463b7b2578aaf2
 =======
 # End of https://www.gitignore.io/api/java,macos,windows,intellij
 >>>>>>> 8e65477e1f6ce2b95334cd17cce1e4847fa59aa6
